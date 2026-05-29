@@ -1,5 +1,7 @@
 LumiaTube
 
+READ THIS README AS CODE FORMAT
+
 A lightweight, custom video client for Windows 10 / Windows 10 Mobile that lets you browse and play online videos through a local streaming backend.
 
 Instead of relying on built-in web playback, the app uses a PC-based server to fetch and process video content, then streams it back to the device as standard media for smooth in-app playback.
